@@ -1,10 +1,11 @@
 ### <h1 align="center">Hi 👋, how are you?</h1> 
-<h2 align="center">I'm Thesco Ferreirta, web developer and UI designer. 
+<h3 align="center">I'm Thesco Ferreirta, web developer and UI designer. 
   
-  Welcome to my profile on GitHub!</h2> 
+  Welcome to my profile on GitHub!</h3> 
 
-  
- <h3 align="center">:coffee: Tools and technologies I use the most</h3>
+
+
+ <h4 align="center">:coffee: Tools and technologies I use the most</h4>
  
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height"30" /> 
@@ -22,10 +23,10 @@
  
  <br>
 
- <h3 align="center">:rocket: I'm currently learning</h3>
+ <h4 align="center">:rocket: I'm currently learning</h4>
  
  <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="3040" height"30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height"30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height"30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height"30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height"30" />
@@ -46,10 +47,10 @@
 </div>
   
    
- <h3 align="center">How to contact me</h3>
+ <h4 align="center">How to contact me</h4>
  <div align="center">
-  <a href="https://www.linkedin.com/in/thesco-ferreira-9b8931b8/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height"40" />
-  <a href="https://www.facebook.com/thescof/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"  width="40" height"40" />
+  <a href="https://www.linkedin.com/in/thesco-ferreira-9b8931b8/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="30" height"30" />
+  <a href="https://www.facebook.com/thescof/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"  width="30" height"30" />
 </a>
  </div>
 
