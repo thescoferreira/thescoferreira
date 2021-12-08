@@ -1,7 +1,4 @@
-### <h1 align="center">Hi 👋, how are you?</h1> 
-<h3 align="center">I'm Thesco Ferreirta, web developer and UI designer. 
-  
-  Welcome to my profile on GitHub!</h3> 
+### <h1 align="center">Hi 👋, I'm Thesco Ferreirta, <br> Web developer and UI designer</h1> 
 
 
 
