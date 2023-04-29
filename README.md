@@ -1,4 +1,4 @@
-### <h1 align="center">Hi 👋, I'm Thesco Ferreira, <br> Web developer and UI designer</h1> 
+### <h1 align="center">Hi 👋, I'm Thesco Ferreira, <br> Front-End developer and UI designer</h1> 
 
 
 
