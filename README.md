@@ -52,7 +52,7 @@
    
  <h4 align="center">How to contact me</h4>
  <div align="center">
-  <a href="https://www.linkedin.com/in/thesco-ferreira-9b8931b8/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="30" height"30" />
+  <a href="https://www.linkedin.com/in/thesco-ferreira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="30" height"30" />
   <a href="https://www.facebook.com/thescof/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"  width="30" height"30" />
 </a>
  </div>
